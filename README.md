@@ -1,5 +1,11 @@
-# Teded
-
+```
+            ████████╗███████╗██████╗ ███████╗██████╗ 
+            ╚══██╔══╝██╔════╝██╔══██╗██╔════╝██╔══██╗
+               ██║   █████╗  ██║  ██║█████╗  ██║  ██║
+               ██║   ██╔══╝  ██║  ██║██╔══╝  ██║  ██║
+               ██║   ███████╗██████╔╝███████╗██████╔╝
+               ╚═╝   ╚══════╝╚═════╝ ╚══════╝╚═════╝ 
+```
 A terminal text editor written in C99 for Linux. Works in raw terminal mode and renders output using ANSI escape sequences. No external libraries. No ncurses.
 
 ## Features
