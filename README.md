@@ -27,7 +27,7 @@ A terminal text editor written in C99 for Linux. Works in raw terminal mode and 
 Requirements: GCC, GNU Make, Linux.
 
 ```bash
-git clone https://github.com/<your-username>/teded.git
+git clone https://github.com/ArhamShah01/teded.git
 cd teded
 make
 ```
